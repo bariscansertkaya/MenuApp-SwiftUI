@@ -21,7 +21,7 @@ struct ContentView: View {
                 }
                 HStack {
                     Spacer()
-                    Text("Afiyet Olsun")
+                    Text("Afiyet Olsun.")
                         .foregroundColor(.secondary)
                     Spacer()
                 }
